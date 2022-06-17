@@ -1,0 +1,64 @@
+body {
+    font-family: 'lexend deca';
+    font-weight:400;
+  }
+.one{
+    background-color: rgb(202, 134, 8);
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.two{
+    background-color: rgb(31, 117, 117);
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.three{
+    background-color: rgb(7, 43, 43);
+    height: 400px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20vh;
+}
+h4,p{
+    color: white;
+    padding: 10px;
+}
+h4{
+    font-size: 15px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 5px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    border-radius: 15px;
+    border-color: white;
+    margin:70px 40px;
+    padding: 6px;
+}
+.one button{
+    color: rgb(238, 183, 81);
+}
+.two button{
+    color: rgb(31, 117, 117);
+    margin-top: 65px;
+}
+.three button{
+    color: rgb(7, 43, 43);
+}
+
+
+
+
